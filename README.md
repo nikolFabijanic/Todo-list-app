@@ -1,2 +1,3 @@
 # Todo-list-app
-Todo app react
+
+To start the project use: npm start in the terminal
